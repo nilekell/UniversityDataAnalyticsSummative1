@@ -5,5 +5,3 @@ lib/
 pyvenv.cfg
 share/
 .DS_Store
-survey_results_public.csv
-survey_results_schema.csv
